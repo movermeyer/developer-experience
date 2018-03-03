@@ -1,7 +1,7 @@
 HackerNews CLI
 ==============
 
-[![Latest Version](https://pypip.in/version/hackernews-cli/badge.svg)](https://pypi.python.org/pypi/hackernews-cli/)
+[![Latest Version](https://img.shields.io/pypi/v/hackernews-cli.svg
 [Docs](http://pythonhosted.org//hackernews-cli/)
 
 For presentation purpose.
